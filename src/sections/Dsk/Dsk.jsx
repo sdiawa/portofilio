@@ -40,7 +40,7 @@ function Hero() {
           <br />
           Diawara
         </h1>
-        <h2>Devops & Automatisation</h2>
+        <h2>Devops, Cloud & Automation</h2>
         <span>
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
@@ -53,8 +53,9 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for devops and automatisation.
+        DevOps, Cloud, and Automation Engineer, passionate about new technologies and automation topics. Skilled in a range of tools (Ansible, Jenkins, Docker, Kubernetes, Terraform, Cloud) and development, I quickly adapt to different teams (dev, ops, etc.) and various environments (production, testing, etc.). My motivation drives me to continue self-training whenever possible, allowing me to keep advancing my skills.
         </p>
+        <br />
         <a href={CV} download>
           <button className="hover">Resume</button>
         </a>
