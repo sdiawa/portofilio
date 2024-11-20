@@ -27,6 +27,3 @@ EXPOSE 5173
 
 # Commande pour démarrer NGINX
 CMD ["nginx", "-g", "daemon off;"]
-
-
-
